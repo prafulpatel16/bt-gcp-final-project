@@ -1,0 +1,7 @@
+# Function dependencies, for example:
+# package>=version
+# https://pypi.org/project/sendgrid/
+flask
+flask-cors
+requests
+sendgrid
